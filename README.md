@@ -10,7 +10,7 @@
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development
+- ✍️ &nbsp; Pursuing Cloud Development
 
 
 
