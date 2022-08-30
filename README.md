@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Cloud Tech, Game Devlopment.
 
 - ✍️ &nbsp; Pursuing Cloud Development
 
