@@ -72,9 +72,9 @@
 
 <a href="https://website.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio_Coming_Soon-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/hantothelei/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-You_Can-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hantothelei/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DM_Me-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:hanleiliangg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Click_Me-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:hanleiliangg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
