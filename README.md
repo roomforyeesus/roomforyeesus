@@ -34,7 +34,7 @@
 
 
 
-<h3>🛠 Currently Learning</h3>
+<h3>📖 Currently Learning</h3>
 
 - 🔧 &nbsp; AWS | terraform
 - 🎮 &nbsp; Unreal Engine 5 | Blender
@@ -79,7 +79,6 @@
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=roomforyeesus.roomforyeesus)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
 
 
 
