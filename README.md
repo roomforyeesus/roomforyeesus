@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<a href="https://website.com"><img alt="Website" src="https://img.shields.io/badge/website-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://website.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio_Coming_Soon-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/hantothelei/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-You_Can-blue?style=flat-square&logo=linkedin"></a>
 
