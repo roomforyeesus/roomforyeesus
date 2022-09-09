@@ -1,47 +1,3 @@
-### Hi there 👋<h2> I'm Hanlei</h2>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<h3> 💻 About Me </h3>
-
-
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Game Devlopment.
-
-- ✍️ &nbsp; Pursuing Cloud Development
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | Flask | Django | SQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | MaterialUI
-
-<!--
-
-- 🛢 &nbsp; mariaDb | Postgresql | SQLite
-
-- 🔧 &nbsp; Git | Continous Intergration | Continous Deployment | IBM Cloud
-
-- 🖥 &nbsp; Ableton | Protools | Photoshop
-
--->
-
-
-
-<h3>📖 Currently Learning</h3>
-
-- 🔧 &nbsp; AWS | terraform
-- 🎮 &nbsp; Unreal Engine 5 | Blender
-<hr>
-
-
-
 <br/><br/>
 
 [![Hanlei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roomforyeesus&show_icons=true)](https://github.com/roomforyeesus)
@@ -68,7 +24,7 @@
 
 <p align="center">
 
-<a href="https://website.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio_Coming_Soon-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://hantotheport.gq"><img alt="Website" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/hantothelei/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin"></a>
 
